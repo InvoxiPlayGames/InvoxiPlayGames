@@ -1,8 +1,10 @@
 ### I'm Emma 😼🏳️‍⚧️
 
-* I do stuff for computers, (mostly old) iPhones and (mostly old) game consoles.
+* I do stuff for computers and video games. In a past life, I messed with iPhones.
 * I'm somewhat okay at C#, NodeJS, C, Python and PHP.
+* Self-proclaimed "reverse engineer" and "security researcher".
+* huge PowerPC fangirl :D
 
 Website: https://invoxiplaygames.uk/
 
-Donate: https://donate.invoxiplaygames.uk/
+Fediverse: [@ipg@wetdry.world](https://wetdry.world/@ipg)
